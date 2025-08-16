@@ -20,6 +20,24 @@ Senha: 1986
 
 ---
 
+## 🖥️ Funcionalidades
+
+- Cadastro de novos usuários  
+- Criação de reservas  
+- Visualização e gerenciamento de reservas pelo admin  
+- Criptografia de senhas  
+- Tela de teste do painel de controle de reservas  
+
+---
+
+## 📌 Requisitos
+
+- PHP 7.0 ou superior  
+- MySQL  
+- XAMPP (ou outro servidor local)
+
+---
+
 ## 🚀 Como rodar o projeto
 
 1. **Baixe o projeto**
